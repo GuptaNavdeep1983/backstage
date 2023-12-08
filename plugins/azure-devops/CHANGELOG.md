@@ -1,5 +1,19 @@
 # @backstage/plugin-azure-devops
 
+## 0.3.10-next.3
+
+### Patch Changes
+
+- c70e4f5: Added multi-org support
+- Updated dependencies
+  - @backstage/plugin-azure-devops-common@0.3.2-next.1
+  - @backstage/catalog-model@1.4.3
+  - @backstage/core-components@0.13.9-next.2
+  - @backstage/core-plugin-api@1.8.1-next.1
+  - @backstage/errors@1.2.3
+  - @backstage/theme@0.5.0-next.1
+  - @backstage/plugin-catalog-react@1.9.2-next.2
+
 ## 0.3.10-next.2
 
 ### Patch Changes
